@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CameraPlus.CameraPlusSettings">
+		<currentVersion>3</currentVersion>
+		<zoomedOutPercent>69.91315</zoomedOutPercent>
+		<zoomedInPercent>0.5057071</zoomedInPercent>
+		<exponentiality>1.25</exponentiality>
+		<zoomedOutDollyPercent>0.51029</zoomedOutDollyPercent>
+		<zoomedInDollyPercent>0.5102887</zoomedInDollyPercent>
+		<edgeIndicators>False</edgeIndicators>
+		<customNameStyle>IncludeAnimals</customNameStyle>
+	</ModSettings>
+</SettingsBlock>

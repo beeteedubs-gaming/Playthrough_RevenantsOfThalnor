@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MedievalOverhaul.MedievalOverhaul_Settings">
+		<leatherChain>False</leatherChain>
+		<refuelableTorch>True</refuelableTorch>
+		<settingMode>
+			<keys />
+			<values />
+		</settingMode>
+	</ModSettings>
+</SettingsBlock>

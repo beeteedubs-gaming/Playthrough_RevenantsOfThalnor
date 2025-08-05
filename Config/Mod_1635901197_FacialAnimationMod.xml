@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FacialAnimation.FacialAnimationModSettings">
+		<IgnoreEnableAnimationForRaceXenoTypeListAA>
+			<li>Human-BotchJob_ProfanedXenotype</li>
+			<li>Human-BotchJob_ProfanedXenotypeSkeletal</li>
+			<li>Human-BotchJob_ProfanedCursebearerXenotype</li>
+			<li>Human-pphhyy_BoneReaper_Sepelire</li>
+			<li>Human-pphhyy_BoneReaper_Thetes</li>
+			<li>Human-pphhyy_BoneReaper_Phalangite</li>
+			<li>Human-pphhyy_BoneReaper_Archon</li>
+			<li>Human-pphhyy_BoneReaper_Apokryphos</li>
+			<li>Human-Forgotten_Minotaur</li>
+		</IgnoreEnableAnimationForRaceXenoTypeListAA>
+	</ModSettings>
+</SettingsBlock>
